@@ -2,5 +2,3 @@ Flask
 gunicorn
 opencv-python
 opencv-contrib-python
-python
-runserver
