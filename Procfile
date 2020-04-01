@@ -1,1 +1,2 @@
-web: main:app runserver 0.0.0.0:9000
+web: pytohn main.py 
+runserver 0.0.0.0:9000
